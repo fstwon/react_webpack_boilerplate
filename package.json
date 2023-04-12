@@ -1,0 +1,24 @@
+{
+  "name": "react-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "react-webpack-boilerplate for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fstwon/react_webpack_boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "bolierplate"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fstwon/react_webpack_boilerplate/issues"
+  },
+  "homepage": "https://github.com/fstwon/react_webpack_boilerplate#readme"
+}
